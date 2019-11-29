@@ -1,3 +1,3 @@
 # DeepLearning
 
-Deep learning class in Hanyang University (2019-1)
+Deep learning class (2019-1)
